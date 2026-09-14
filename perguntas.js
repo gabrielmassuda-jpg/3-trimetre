@@ -26,7 +26,7 @@ criarCartao(
 )
 criarCartao(
 'categoria',Fisica
-'Perguntas',Oque é inerce
+'Perguntas',Oque é inercia
 'Respostas'Propriedade física que faz com que a matéria resista a qualquer mudança em seu estado de repouso ou de movimento
 
 
