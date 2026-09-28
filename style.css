@@ -20,4 +20,12 @@ text-align: left;
 padding: 0.5rem;
 margin: 0.6rem;
 position: absolute;
+border-radius:o.6rem;
+font-size: larger;
+}
+
+.cartao_conteudo p{
+margin-top: 1rem;
+padding: 2rem;
+font-size: 1.4vw;
 }
