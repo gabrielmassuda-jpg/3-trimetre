@@ -34,4 +34,7 @@ font-weight: 700;
 color: var(--verso-cartao);
 
 
+} 
+.cartao.active .cartao_conteudo{
+        transform: rotate(180deg);
 }
