@@ -29,3 +29,9 @@ margin-top: 1rem;
 padding: 2rem;
 font-size: 1.4vw;
 }
+.cartao_conteudo-respostas{
+font-weight: 700;
+color: var(--verso-cartao);
+
+
+}
