@@ -11,5 +11,7 @@ function criarCartao(categoria, pergunta, resposta) {
 </div>
 <div class="cartao_conteudo_resposta">
     <p>${resposta}</p>
-</div>`
+</div>
+`
+container.appendChild(cartao);
 }
