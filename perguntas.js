@@ -14,8 +14,10 @@ criarCartao(
 )
 criarCartao(
 'Artes',
+'Grupo musical responsavel pelo movimento post punk dos anos 2000'
 'Grupo musical responsavel pelo movimento post punk dos anos 2000',
 
+)
 criarCartao(
 'Esportes',
 'quem esportes',
