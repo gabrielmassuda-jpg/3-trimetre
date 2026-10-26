@@ -1,90 +1,87 @@
 criarCartao(
 'Matematica',
-'Perguntas',20+20+20+7
-'Respostas'Ai é muito facil professora 67
+'20+20+20+7',
+'Ai é muito facil professora 67'
 
 
 )
 criarCartao(
-'categoria',Historia
-'Perguntas',Quem participou da guerra de ópio
-'Respostas'Inglaterra e china
+'Historia',
+'Quem participou da guerra de ópio',
+'Inglaterra e china'
 
 
 )
 criarCartao(
-'categoria',Artes
-'Perguntas',Grupo musical responsavel pelo movimento post punk dos anos 2000
-'Respostas'The Strokes)
+'Artes',
+'Grupo musical responsavel pelo movimento post punk dos anos 2000',
 
 criarCartao(
-'categoria',Esportes
-'Perguntas',Quem ganhou a copa do brasil em 2010
-'Respostas'Santos Futebol Clube
+'Esportes',
+'quem esportes',
+'Santos Futebol Club'
+)
+criarCartao(
+'Fisica',
+'Oque é inercia',
+'Propriedade física que faz com que a matéria resista a qualquer mudança em seu estado de repouso ou de movimento'
 
 
 )
 criarCartao(
-'categoria',Fisica
-'Perguntas',Oque é inercia
-'Respostas'Propriedade física que faz com que a matéria resista a qualquer mudança em seu estado de repouso ou de movimento
+'Artes',
+'Principal pintor do movimento surrealista',
+'Salvador Dalí'
 
 
 )
 criarCartao(
-'categoria',Artes
-'Perguntas',Principal pintor do movimento surrealista
-'Respostas'Salvador Dalí
+'Geografia',
+'Qual é o unico pais neutro'
+'Suíça'
+)
+
+criarCartao(
+'Matematica',
+'10+10+10+12',
+'Ai é muito facil professora 42'
 
 
 )
 criarCartao(
-'categoria',Geografia
-'Perguntas',Qual é o unico pais neutro
-'Respostas'Suíça
-)
-
-criarCartao(
-'categoria',Matematica
-'Perguntas',10+10+10+12
-'Respostas'Ai é muito facil professora 42
+'Historia',
+'Quem se aliou a alemanha na segunda guerra mundial',
+'Italia e Japão'
 
 
 )
 criarCartao(
-'categoria',Historia
-'Perguntas',Quem se aliou a alemanha na segunda guerra mundial
-'Respostas'Italia e Japão
+'Artes',
+'Artista com mais grammys ', 
+'Beyonce')
+
+criarCartao(
+'Esportes',
+'Quem ganhou a copa do mundo em 2010',
+'Espanha'
 
 
 )
 criarCartao(
-'categoria',Artes
-'Perguntas', Artista com mais grammys 
-'Respostas'Beyonce)
+'Artes',
+'Melhor grupo de kpop',
+'Newjeans'
 
+)
 criarCartao(
-'categoria',Esportes
-'Perguntas',Quem ganhou a copa do mundo em 2010
-'Respostas'Espanha
+'Artes',
+'Autor da peça Hamet',
+'Shakespeare'
 
 
 )
 criarCartao(
-'categoria',Artes
-'Perguntas',Melhor grupo de kpop
-'Respostas'Newjeans
-
-)
-criarCartao(
-'categoria',Artes
-'Perguntas',Autor da peça Hamet
-'Respostas'Shakespeare
-
-
-)
-criarCartao(
-'categoria',Geografia
-'Perguntas',Em qual continente esta a russia
-'Respostas'Asía
+'Geografia',
+'Em qual continente esta a russia',
+'Asía'
 )
