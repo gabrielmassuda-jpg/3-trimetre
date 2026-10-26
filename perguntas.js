@@ -1,5 +1,5 @@
 criarCartao(
-'categoria',Matematica
+'Matematica',
 'Perguntas',20+20+20+7
 'Respostas'Ai é muito facil professora 67
 
