@@ -39,7 +39,7 @@ criarCartao(
 )
 criarCartao(
 'Geografia',
-'Qual é o unico pais neutro'
+'Qual é o unico pais neutro',
 'Suíça'
 )
 
